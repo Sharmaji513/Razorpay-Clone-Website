@@ -1,5 +1,5 @@
-# Razorpay Clone Website
-Live Link : razerpay-clone-website-sachinkr.netlify.app
+# Razorpay Clone Website 
+https://razerpay-clone-website-sachinkr.netlify.app/
 
 This project is a meticulously built clone of the Razorpay website, implemented using the Tailwind CSS framework. 
 
